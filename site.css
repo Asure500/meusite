@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'MinhaFonte';
+  src: url('fonts/TrajanProBold.ttf') format('truetype');
+}
+body {
+  font-family: 'MinhaFonte', sans-serif;
+}
