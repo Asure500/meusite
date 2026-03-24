@@ -9,3 +9,7 @@ body {
   transform: translateY(-30px);
   text-align: center;
 }
+.emoji1 {
+  transform: translateY(-50px);
+  align-items: center;
+}
