@@ -11,5 +11,5 @@ body {
 }
 .emoji1 {
   transform: translateY(-50px);
-  align-items: center;
+  text-align: center;
 }
