@@ -5,3 +5,7 @@
 body {
   font-family: 'MinhaFonte', sans-serif;
 }
+.texto {
+  transform: translateY(-30px);
+  text-align: center;
+}
