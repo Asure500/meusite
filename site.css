@@ -6,10 +6,10 @@ body {
   font-family: 'MinhaFonte', sans-serif;
 }
 .texto {
-  transform: translateY(-330px);
+  transform: translateY(330px);
   text-align: center;
 }
 .emoji1 {
-  transform: translateY(-350px);
+  transform: translateY(350px);
   text-align: center;
 }
